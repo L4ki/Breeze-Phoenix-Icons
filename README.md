@@ -1,2 +1,2 @@
 # Breeze-Phoenix-Icons
-Icons For Plasma Theme
+Icons For Plasma Themes
